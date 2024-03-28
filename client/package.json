@@ -3,7 +3,7 @@
   "description": "Deno Language Service client",
   "private": true,
   "dependencies": {
-    "execa": "^4.1.0",
+    "execa": "^8.0.1",
     "vscode-languageclient": "^7.0.0",
     "vscode-nls": "^4.1.2",
     "which": "^2.0.2"
