@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "execa": "^4.1.0",
-    "vscode-languageclient": "^7.0.0",
+    "vscode-languageclient": "^9.0.1",
     "vscode-nls": "^4.1.2",
     "which": "^2.0.2"
   }
